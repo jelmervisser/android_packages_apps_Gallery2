@@ -1,4 +1,4 @@
-android_packages_apps_Gallery2
+HTC Sensation / XE Gallery2 app
 ==============================
 
 Gallery2 app for HTC Sensation / XE phones with Android 4.1.1.
